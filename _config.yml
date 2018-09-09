@@ -1,1 +1,5 @@
 theme: jekyll-theme-cayman
+title: "第二次面试"
+show_downloads: false
+github:
+  is_project_page : false
