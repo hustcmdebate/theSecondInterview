@@ -1,37 +1,59 @@
-## Welcome to GitHub Pages
+## 第二次面试赛制及说明
 
-You can use the [editor on GitHub](https://github.com/hustcmdebate/theSecondInterview/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- **时间 ： 待定**
 
-### Markdown
+- **地点 ： 韵苑25栋三楼管理学院公用房**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+***
 
-```markdown
-Syntax highlighted code block
+### 赛制
 
-# Header 1
-## Header 2
-### Header 3
+**准备环节**
 
-- Bulleted
-- List
+- 面试小组 ： 6人每组，每组派1个代表抽取辩题。
 
-1. Numbered
-2. List
+- 选手拿到辩题后，自选持方，准备**8分钟**（有纸笔供记录，可带上场）。
 
-**Bold** and _Italic_ and `Code` text
+- 选手需在规定时间提前十分钟到教室签到。
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**第二轮面试采用奥瑞冈赛制，规则略有修改。**
 
-### Jekyll Themes
+1.正方一辩申论，用时3分钟。
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hustcmdebate/theSecondInterview/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+2.反方二辩质询正方一辩，用时1分30秒。
 
-### Support or Contact
+3.反方一辩申论，用时3分钟。
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+4.正方三辩质询反方一辩，用时1分30秒。
+
+5.正方二辩申论，用时2分钟。
+
+6.反方三辩质询正方二辩，用时1分30秒。
+
+7.反方二辩申论，用时2分钟。
+
+8.正方一辩质询反方二辩，用时1分30秒。
+
+9.正方三辩申论，用时2分钟。
+
+10.反方一辩质询正方三辩，用时1分30秒。
+
+11.反方三辩申论，用时2分钟。
+
+12.正方二辩质询反方三辩，用时1分30秒。
+
+13.反方任意一位辩手结辩，用时3分钟。
+
+14.正方任意一位辩手结辩，用时3分钟。
+
+**_关于面试的任何问题可以在招新群中提问或在面试现场咨询。_**
+
+***
+
+### 一些说明
+
+- 立论 ：
+
+- **评判标准** ：什么样的人可以成为一个好辩手，这似乎没有一个标准的结论。我们希望你在面试的过程中尽可能展现出你的亮点，让我们看到你与众不同之处，无论是你思维活跃，逻辑清晰，观点新颖或是口齿伶俐，声音好听，姿态优雅，尽可能的展现自己，我们会给你一个公正的评判。
